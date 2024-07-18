@@ -9,3 +9,4 @@ Site de uma loja de roupas com o objetivo de facilitar a vida dos consumidores c
 - Juliana Padilha
 - Rommel Carneiro
 ## Instruçãao de utilização
+Baixe todo o projeto e abra no Visual Studio Code (VS Code). Com a extensão Go Live instalada, abra o arquivo pelo pelo VS Code.
